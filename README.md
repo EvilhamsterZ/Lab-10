@@ -86,8 +86,11 @@ return 0;
 ```
 ### Скрины выполнения 
 Для n=5
+
 ![Отладка для n=5](https://user-images.githubusercontent.com/90544365/146983080-bb6f669f-a328-418a-9ba5-39456e7ede95.jpg)
+
 Для n=10
 ![Отладка для n=10](https://user-images.githubusercontent.com/90544365/146983144-8dd8f334-a3d6-4cbc-af50-d0e488e3a583.jpg)
+
 Для n=30
 ![Отладка для n=30](https://user-images.githubusercontent.com/90544365/146983171-29da778a-17b4-4682-84d8-c3f44f56777f.jpg)
