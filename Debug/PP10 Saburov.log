@@ -1,0 +1,3 @@
+﻿  PP10 Saburov.cpp
+C:\Users\samue\source\repos\PP10 Saburov\PP10 Saburov\PP10 Saburov.cpp(27,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  PP10 Saburov.vcxproj -> C:\Users\samue\source\repos\PP10 Saburov\Debug\PP10 Saburov.exe
