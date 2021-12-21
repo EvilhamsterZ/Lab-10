@@ -1,100 +1,93 @@
-Enter
-Вы вытянули бочонок номер =3
-Enter
-Вы вытянули бочонок номер =5
-Enter
-Вы вытянули бочонок номер =4
-Enter
-Вы вытянули бочонок номер =1
-Enter
-Вы вытянули бочонок номер =2
-Enter
-Вы вытянули бочонок номер =4
-Enter
-Вы вытянули бочонок номер =6
-Enter
-Вы вытянули бочонок номер =3
-Enter
-Вы вытянули бочонок номер =8
-Enter
-Вы вытянули бочонок номер =5
-Enter
-Вы вытянули бочонок номер =1
-Enter
-Вы вытянули бочонок номер =9
-Enter
-Вы вытянули бочонок номер =2
-Enter
-Вы вытянули бочонок номер =10
-Enter
-Вы вытянули бочонок номер =7
-Enter
-Вы вытянули бочонок номер =1
-Enter
-Вы вытянули бочонок номер =24
-Enter
-Вы вытянули бочонок номер =8
-Enter
-Вы вытянули бочонок номер =22
-Enter
-Вы вытянули бочонок номер =14
-Enter
-Вы вытянули бочонок номер =5
-Enter
-Вы вытянули бочонок номер =17
-Enter
-Вы вытянули бочонок номер =21
-Enter
-Вы вытянули бочонок номер =13
-Enter
-Вы вытянули бочонок номер =16
-Enter
-Вы вытянули бочонок номер =4
-Enter
-Вы вытянули бочонок номер =7
-Enter
-Вы вытянули бочонок номер =25
-Enter
-Вы вытянули бочонок номер =6
-Enter
-Вы вытянули бочонок номер =30
-Enter
-Вы вытянули бочонок номер =19
-Enter
-Вы вытянули бочонок номер =15
-Enter
-Вы вытянули бочонок номер =28
-Enter
-Вы вытянули бочонок номер =20
-Enter
-Вы вытянули бочонок номер =27
-Enter
-Вы вытянули бочонок номер =26
-Enter
-Вы вытянули бочонок номер =12
-Enter
-Вы вытянули бочонок номер =23
-Enter
-Вы вытянули бочонок номер =10
-Enter
-Вы вытянули бочонок номер =11
-Enter
-Вы вытянули бочонок номер =3
-Enter
-Вы вытянули бочонок номер =18
-Enter
-Вы вытянули бочонок номер =9
-Enter
-Вы вытянули бочонок номер =2
-Enter
-Вы вытянули бочонок номер =29
-Enter
-Вы вытянули бочонок номер =4
-Enter
-Вы вытянули бочонок номер =1
-Enter
-Вы вытянули бочонок номер =3
-Enter
-Вы вытянули бочонок номер =2
-Enter
-Вы вытянули бочонок номер =5
+user pressed enter 
+user get number =4
+user pressed enter 
+user get number =1
+user pressed enter 
+user get number =2
+user pressed enter 
+user get number =5
+user pressed enter 
+user get number =3
+////////////////////////////////////////////////////////////
+user pressed enter 
+user get number =10
+user pressed enter 
+user get number =7
+user pressed enter 
+user get number =2
+user pressed enter 
+user get number =6
+user pressed enter 
+user get number =3
+user pressed enter 
+user get number =4
+user pressed enter 
+user get number =1
+user pressed enter 
+user get number =5
+user pressed enter 
+user get number =8
+user pressed enter 
+user get number =9
+////////////////////////////////////////////////////////////
+user pressed enter 
+user get number =4
+user pressed enter 
+user get number =12
+user pressed enter 
+user get number =24
+user pressed enter 
+user get number =8
+user pressed enter 
+user get number =10
+user pressed enter 
+user get number =17
+user pressed enter 
+user get number =1
+user pressed enter 
+user get number =11
+user pressed enter 
+user get number =13
+user pressed enter 
+user get number =28
+user pressed enter 
+user get number =15
+user pressed enter 
+user get number =29
+user pressed enter 
+user get number =14
+user pressed enter 
+user get number =22
+user pressed enter 
+user get number =3
+user pressed enter 
+user get number =23
+user pressed enter 
+user get number =30
+user pressed enter 
+user get number =9
+user pressed enter 
+user get number =20
+user pressed enter 
+user get number =25
+user pressed enter 
+user get number =6
+user pressed enter 
+user get number =19
+user pressed enter 
+user get number =18
+user pressed enter 
+user get number =27
+user pressed enter 
+user get number =26
+user pressed enter 
+user get number =5
+user pressed enter 
+user get number =16
+user pressed enter 
+user get number =21
+user pressed enter 
+user get number =2
+user pressed enter 
+user get number =7
+////////////////////////////////////////////////////////////
